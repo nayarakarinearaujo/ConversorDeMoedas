@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conversor de Moedas</title>
 
-    <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../styles/style.css">
+    <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
 
 </head>
 
@@ -16,11 +16,11 @@
     <main>
 
         <div class="image-container">
-            <img src="imgDolar.jpg" alt="" srcset="">
+            <img src="../img/imgDolar.jpg" alt="" srcset="">
         </div>
 
         <div id="din" class="container">
-            <img src="cifrao.png" alt="">
+            <img src="../img/cifrao.png" alt="">
             <h1>Conversor de moedas</h1>
 
             <?php
